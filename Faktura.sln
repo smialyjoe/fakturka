@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktura", "Faktura\Faktura.csproj", "{AA158AEE-C1BD-49E6-BE67-2D903EB39F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktura.Tests", "Faktura.Tests\Faktura.Tests.csproj", "{795C6696-8C45-4707-A76C-146BE314392A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA158AEE-C1BD-49E6-BE67-2D903EB39F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA158AEE-C1BD-49E6-BE67-2D903EB39F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA158AEE-C1BD-49E6-BE67-2D903EB39F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA158AEE-C1BD-49E6-BE67-2D903EB39F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795C6696-8C45-4707-A76C-146BE314392A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795C6696-8C45-4707-A76C-146BE314392A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795C6696-8C45-4707-A76C-146BE314392A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795C6696-8C45-4707-A76C-146BE314392A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
